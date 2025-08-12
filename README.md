@@ -13,3 +13,12 @@ print (a+b)
 print (a-b)
 print (a*b)
 print (a/b)
+#----------------
+
+first_name = input("John")
+#ast_name = input("Doe")
+#ull_name = first_name + last_name
+First = input ("Enter first name: ")
+Last = input ("Enter last name: ")
+full_name = First + " " + Last
+pr
